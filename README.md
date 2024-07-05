@@ -1,7 +1,3 @@
-Based on the provided notebook, it appears the project is about building an end-to-end multi-class dog breed classification model using deep learning techniques. Here’s a professional README for the project:
-
----
-
 # Dog Breed Identification
 
 This project focuses on identifying the breed of a dog given an image using deep learning and transfer learning techniques.
