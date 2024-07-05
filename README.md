@@ -99,9 +99,6 @@ history = model.fit(
 ## Results
 The results will be a set of prediction probabilities for each dog breed for each test image. The detailed evaluation metrics and performance charts will be added here after running the model.
 
-## Contributing
-Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
